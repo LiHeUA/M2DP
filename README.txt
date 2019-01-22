@@ -2,6 +2,8 @@ This set of m-files demonstrates how the M2DP algorithm works in principle. M2DP
 
 To run the demo, simply start Matlab and run demo.m. If it is the first time you use this code, please run mex CountVote2D.c in Matlab.
 
+Demo video can be found at https://www.youtube.com/watch?v=o87MGK8qQaY
+
 Acknowledgment:
 
 The algorithm described in the code was published in: 
